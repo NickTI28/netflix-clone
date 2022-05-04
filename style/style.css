@@ -1,0 +1,83 @@
+body {
+	background-color: #000000;
+}
+h5 {
+	width: 550px;
+	padding-top: 20px;
+	font-family: arial;
+}
+h4 {
+	color: white;
+}
+.linknav {
+	color: #FFFFFF;
+	padding: 30px;
+}
+.navbar {
+	background-color: #000000;
+	padding-top: 0;
+	padding-bottom: 0;
+}
+.navbar-brand {
+	padding-top: 0;
+	padding-bottom: 0;
+}
+.navpic {
+	padding-left: 60px;
+}
+.link1 {
+	padding-left: 20px;
+}
+.search {
+	padding-top: 9px;
+	padding-left: 500px;
+}
+.notif-bell {
+	padding-top: 9px;
+}
+.profile {
+	padding-top: 9px;
+}
+.highlight {
+	background-color: black;
+	width: 100%;
+	height: 576px;	
+	background-image: url("stranger-new2.png");	
+}
+.imglogo {
+	padding-top: 70px;
+	padding-left: 40px;
+}
+.pop-1 {
+	height: 400px;
+}
+.pop-2 {
+	height: 400px;
+}
+.title-margin {
+	margin: 20px;
+	margin-left: 0;
+	margin-bottom: 13px;
+}
+.botoes {
+	padding-top: 20px;
+}
+.container-1 {
+	margin-left: 50px;
+	margin-right: 50px;
+	padding-bottom: 20px;
+	padding-top: 10px;
+}
+.container-2 {
+	margin-left: 50px;
+	margin-right: 50px;
+}
+.box-filme {
+	height: 100%;
+	width: 100%;
+	display: block;
+}
+.trending {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
